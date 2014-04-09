@@ -1,6 +1,0 @@
-/*
- * Needed to fix AdBlock
- */
-.fa-twitter-unadblocked:before {
-  content: "\f099";
-}
