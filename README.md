@@ -9,3 +9,6 @@ particularly on Windows Phone devices.
 Vim user, Emacs wannabe.
 
 And this is my blog. Enjoy !!!
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gueyeb/gueyeb.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
