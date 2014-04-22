@@ -14,11 +14,10 @@ url:              http://blog.babacar-gueye.fr
 author:
   name:           'Babacar GUEYE'
   url:            https://twitter.com/gueyeb
-  email:	        gueyens11@gmail.com
 
 paginate:         5
 
 # Custom vars
 
-github:		  gueyeb
-twitter:	  babttz
+github: gueyeb
+twitter: babttz
