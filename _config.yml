@@ -1,23 +1,31 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+title: Babacar GUEYE - CV
+profile_img: /assets/img/profile.webp
+icon_img: /assets/img/icon.webp
 
-# Permalinks
-permalink:        pretty
+name: "Babacar GUEYE"
+job: "〈Data Analyst / Architect〉"
 
-# Setup
-title:            Blog
-tagline:          'Babacar Gueye'
-description:      'Some news from <a href="https://twitter.com/babttz">@me</a>.'
-url:              http://blog.babacar-gueye.fr
+phone_number: +33(0)669-766-714
+address: Paris, France
+email: gueye.babacar@outlook.com
+linkedin_username: gueyeb
+github_username: gueyeb
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
+# youtube_username: youtube
+blog_url: https://gueyeb.github.io/
 
-author:
-  name:           'Babacar GUEYE'
-  url:            https://twitter.com/gueyeb
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl:
 
-paginate:         5
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
 
-# Custom vars
-
-github: gueyeb
-twitter: babttz
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

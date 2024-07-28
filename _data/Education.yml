@@ -1,0 +1,40 @@
+subject: Education
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Institut Polytechnique Telecom Paris, Msc in Enterprise Architecture
+    description:
+      - Architecture - Etude d’une plateforme « Security As a Service » dit SECaaS
+      - Ingénierie des besoins - Modélisation de processus d’intégration de services
+      - Recherche - Optimisation de la détection d’anomalies dans les réseaux/systèmes par la technologie Blockchain
+      - Etude de cas - Automatisation des processus avec la technologie RPA (Robotic Process Automation)
+      - Marketing - Elaboration d’un business plan pour une startup de développement et d’intégrations de solutions Health Tech (Santé)
+      - Gouvernance & Processus - Elaboration d’un SDSI – Schéma Directeur des Systèmes d’Information (méthodologie de référence ITIL)
+    date: Oct. 2019 - Dec. 2020
+  - title: EPITECH, MA in Information Technology / Computer Science
+    description:
+      - Expert en technologies de l’information & Ingénieurie logicielle
+      - Co-création du Laboratoire de Robotique (Mechalab) d’Epitech Bordeaux
+      - Assistant pédagogique chargé de l'évaluation des élèves et accompagnement/suivi
+    # grade: "**GPA**: `4.1/4.3`"
+    date: Sept. 2011 - Mai 2016
+  - title: Université de Haute-Alsace UHA, MA in Project Management
+    description:
+      - Management des systemes d'information
+      - Etude de cas - Mise en place d’un ERP avec architecture modulaire chez "ETCHEVER SAS"
+      - Redaction note de cadrage et Schema directeur
+      - Méthode de conduite du changement
+    # grade: "**GPA**: `3.9/4.3`"
+    # description:
+    #   - 
+    date: Sept. 2015 - Mai 2016
+  - title: Beijing Jiaotong University, (exchange program) MA in Software Engineering
+    # grade: "**GPA**: `3.9/4.3`"
+    description:
+      - Software Project Management
+      - Software Requirement Engineering
+      - Software Quality Assurance
+      - Advanced Software Architecture
+      - Advanced Operating System
+      - Data Mining and Hadoop Data Analytic
+    date: Sept. 2014 - Jul. 2015

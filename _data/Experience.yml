@@ -1,0 +1,115 @@
+subject: Experiences
+listing-order: 2
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: Givaudan
+    role: Senior Software Engineer
+    description: 
+      - Intervention sur plusieurs projets dont Mergers and Acquisitions of IT systems, Sustainability, Packaging Material
+      - Design de solutions Master Data Management
+      - Définition et documentation des processus métier
+      - Coordination des tests des utilisateurs
+      - Support aux déploiements et support applicatif dans les phases de post-déploiement
+      - Elaboration et suivi de la gouvernance des données pour les différentes Master Data
+      - SAP MM, MDM, Talend, MEGA HOPEX, Agile Methodologies, ServiceNow, BPM, Visio, Jira, Confluence, Oracle, MySQL, HP ALM Quality center
+    date: Apr. 2016 - Ongoing
+  - title: Orange OBS SA
+    role: Consultant Data Senior
+    description:
+      - Business analyst sur projets pour Orange & Givaudan
+    date: Jun. 2024 - Apr. 2024
+  - title: CGI France
+    role: Product Owner processus bancaires
+    description: 
+      - Mission pour Societe Generale
+      - Digitalisation des processus bancaires et mise en place d'un outil pour améliorer l'organisation du travail dans le réseau SG Banque de détail
+      - Cadrage des besoins des différents métiers banque
+      - Gestion et suivi des divers chantiers
+      - Conception de processus en BPM (Business Process Management)
+      - Accompagnement des métiers et applications dans l'orchestration de leurs processus
+      - Référent fonctionnel sur programme de décommissionnement
+    date: Jul. 2020 - Mai. 2022
+  - title: CGI France
+    role: Business Analyst MOA Réglementaire
+    description: 
+      - Mission pour Allianz France
+      - LAB/LAT + PMO Lutte Anti-Blanchiment d'argent - Lutte Anti Financement du Terrorisme
+      - Mise en place des nouveaux flux/populations (clients, contrats) pour l'élargissement des scans quotidiens
+      - Mise en place de dashboards/reporting pour métier Allianz Finance France
+      - Etude de solutions & Conception fonctionnelle
+      - Respect des enjeux réglementaires & deadlines
+      - Planification & Suivi budgétaire des chantiers
+      - Coordination & Réalisation de chantiers divers liés à la Direction de la Conformité d'Allianz France
+      - Accompagnement dans la mise en place de l'organisation Agile@Allianz
+      - Coordination entre l'IT Allianz France, Allianz Tech (Allemagne/Inde), CDS Accenture (Ile Maurice)
+    date: Jul. 2018 - Fev. 2020
+  - title: CGI France
+    role: PMO Portefeuille Direction Solutions transverses
+    description: 
+      - Mission pour Allianz France
+      - Activités d’Assistance au Pilotage d’un Portefeuille de projets IT (~50 pour un poids de 7.000 k€ - 16 ETP) pour le Centre de Solutions GED, DOM & Workflow
+      - Élaboré et maintenu des plannings et macro-plannings, garantissant le respect des jalons et la progression des projets, améliorant la visibilité et l'adhérence globale.
+      - Supervisé les activités des ressources/projets, optimisant l'allocation et l'utilisation des ressources
+      - Surveillé le budget en comparant les consommations aux allocations, validant les processus et contrôlant les coûts
+      - Conçu des plans de charge précis, assurant une gestion équilibrée des capacités et des ressources à travers le portefeuille de projets
+      - Reporting & Suivi des clôtures de la facturation
+      - Mise en place d’indicateurs de suivi spécifiques
+      - Préparation et mise à disposition éléments pour comités COPRO, COPIL
+    date: Avr. 2016 - Jun. 2018
+  - title: CGI France
+    role: PMO Projet
+    description: 
+      - Mission pour Allianz France
+      - Projet de relocalisation pour 7 000 employés d'Allianz France, permettant la rénovation des tours et la réorganisation des directions sur l'ensemble des tours de l'assureur Allianz.
+      - Coordonné efficacement les équipes internes d'Allianz et les partenaires externes (DESC, DP, DILE, XEROX, ECONOCOM, GNOC, AMOS) pour assurer l'installation des utilisateurs à la date prévue avec tout leur équipement.
+      - Assuré que toutes les équipes disposent des documents nécessaires et respectent les délais, garantissant une transition fluide et ponctuelle.
+      - Veillé à l'installation et à la livraison efficaces des équipements, optimisant ainsi le processus de relocalisation et réduisant les interruptions opérationnelles.
+    date: Jun. 2016 - Jul. 2016
+  - title: CGI France
+    role: Software developer
+    description: 
+      - Mission pour Allianz France
+      - Projet de relocalisation pour 7 000 employés d'Allianz France, permettant la rénovation des tours et la réorganisation des directions sur l'ensemble des tours de l'assureur Allianz.
+      - Coordonné efficacement les équipes internes d'Allianz et les partenaires externes (DESC, DP, DILE, XEROX, ECONOCOM, GNOC, AMOS) pour assurer l'installation des utilisateurs à la date prévue avec tout leur équipement.
+      - Assuré que toutes les équipes disposent des documents nécessaires et respectent les délais, garantissant une transition fluide et ponctuelle.
+      - Veillé à l'installation et à la livraison efficaces des équipements, optimisant ainsi le processus de relocalisation et réduisant les interruptions opérationnelles.
+    date: Jun. 2016 - Jul. 2016
+  - title: Micropole
+    role: MDM Consultant
+    description: 
+      - Mission pour UNITHER Pharmaceuticals
+      - Projet Sérialisation - Mise en place d'un mécanisme d’échange générique permettant de gérer la diversité des demandes clients et de limiter la validation pharmaceutique aux nouveaux blocs fonctionnels avec la solution Talend Open Studio
+      - Modélisation des bases de données des différents sites
+      - Paramétrage de règles fonctionnelles du business
+      - Gestion de la qualité de la donnée aggrégée depuis plusieurs sites 
+      - Mise en oeuvre d'une Architecture SOA
+      - Rédaction des livrables en anglais
+      - Talend Open Studio, Oracle DB, MySQL, Java, IntelliJ, PostgreSQL, PL/SQL
+    date: Sept. 2015 - Fev. 2016
+  - title: WalkTheChat
+    role: Software developer
+    description: 
+      - WalkTheChat est une agence de marketing spécialisée dans l'accompagnement des entreprises pour obtenir une présence significative et significative sur l'application WeChat, le développement de sites internet, la création de contenu sur les réseaux sociaux en Chine.
+      - Cadrage du projet
+      - Evaluation et prototypage d'une application Web Open Source de gestion de compte WeChat entreprise (boutique en ligne et interactions clients)
+      - Développement Web de la plateforme CMS
+      - Python / Django, Full Stack développement, HTML, CSS, Javascript, NodeJs, MongoDB
+    date: Mar. 2015 - Jul. 2015
+  - title: Azendoo
+    role: Développeur Ruby On Rails
+    description: 
+      - Azendoo est une application web de gestion de projets et de tâches collaboratives construite sur le modèle du réseau social d'entreprise sans email.
+      - Amélioration du processus de test des applications en optimisant les scénarios de test et en développant des tests unitaires plus efficaces, réduisant de 30 % les interruptions dues aux bugs
+      - Développement d'un système d'emailing transactionnel robuste, améliorant l'efficacité de la communication et assurant une livraison fiable aux utilisateurs, augmentant ainsi les taux d'engagement
+      - Ruby, Ruby on Rails, Backend, HTML, CSS, Javascript, SendGrid, NewRelic, MailChimp, AB Testing
+    date: Mar. 2014 - Jul. 2014
+  - title: Snapp'
+    role: Développeur Ruby On Rails
+    description: 
+      - Snapp' développe plusieurs applications dont FidMe, une appli shopping complète, qui simplifie et récompense les achats des utilisateurs et simplifie la dématérialisation de programme de fidélité.
+      - Gestion de base de données Market/Client
+      - Création et élaboration d'un Backoffice pour Catalina (C-Wallet)
+      - Gestion d'une application de simulation de prêt bancaire (SimuBox)
+      - Création et élaboration d'un Backoffice et un forum (NeoCutis)
+      - Ruby, Ruby on Rails, Redmine (Project Management), HTML/CSS, JQuery, Javascript
+    date: Jul. 2012 - Dec. 2012
