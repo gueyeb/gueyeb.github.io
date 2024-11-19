@@ -2,6 +2,15 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
+  - title: Ecole des Mines ParisTech PSL, Data Engineer
+    description:
+      - Python, Programmation avancée, Bash, Web Scraping
+      - RGPD & Ethique
+      - Big Data, Batch & streaming, Kafka, Streaming avec Spark
+      - Cloud AWS, DevOps - Virtualisation, CI/CD, Monitoring
+      - FastAPI, Docker, Dash, APIs, Mongo, ElasticSearch, SQL, Hadoop, Flink
+      - Machine Learning, Statistiques exploratoires, Matplotlib, Data Drift
+    date: Nov. 2024 - Dec. 2025
   - title: Institut Polytechnique Telecom Paris, Msc in Enterprise Architecture
     description:
       - Architecture - Etude d’une plateforme « Security As a Service » dit SECaaS
