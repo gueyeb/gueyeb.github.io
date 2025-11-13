@@ -5,4 +5,6 @@ _site
 .bundle
 vendor
 Gemfile.lock
-*.gem
+*.gem*.DS_store
+*/*.DS_store
+.DS_Store
