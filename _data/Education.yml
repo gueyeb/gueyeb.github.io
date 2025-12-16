@@ -4,46 +4,36 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Ecole des Mines ParisTech PSL, Data Engineer
     description:
-      - Python, Programmation avancée, Bash, Web Scraping
-      - RGPD & Ethique
-      - Big Data, Batch & streaming, Kafka, Streaming avec Spark
-      - Cloud AWS, DevOps - Virtualisation, CI/CD, Monitoring
-      - FastAPI, Docker, Dash, APIs, Mongo, ElasticSearch, SQL, Hadoop, Flink
-      - Machine Learning, Statistiques exploratoires, Matplotlib, Data Drift
+      - Parcours orienté data engineering : Python avancé, Bash, web scraping et industrialisation de pipelines.
+      - Big Data & streaming (Kafka, Spark), architectures batch/temps réel et bonnes pratiques RGPD/éthique.
+      - Cloud AWS, DevOps (virtualisation, CI/CD, monitoring) et développement d'APIs (FastAPI, Docker, Dash).
+      - Bases de données et moteurs de recherche : MongoDB, ElasticSearch, SQL, Hadoop, Flink.
+      - Projets appliqués avec détection de data drift, statistiques exploratoires et visualisation (Matplotlib).
     date: Nov. 2024 - Dec. 2025
+
   - title: Institut Polytechnique Telecom Paris, Msc in Enterprise Architecture
     description:
-      - Architecture - Etude d’une plateforme « Security As a Service » dit SECaaS
-      - Ingénierie des besoins - Modélisation de processus d’intégration de services
-      - Recherche - Optimisation de la détection d’anomalies dans les réseaux/systèmes par la technologie Blockchain
-      - Etude de cas - Automatisation des processus avec la technologie RPA (Robotic Process Automation)
-      - Marketing - Elaboration d’un business plan pour une startup de développement et d’intégrations de solutions Health Tech (Santé)
-      - Gouvernance & Processus - Elaboration d’un SDSI – Schéma Directeur des Systèmes d’Information (méthodologie de référence ITIL)
+      - Architecture d'une plateforme « Security as a Service » (SECaaS) et modélisation de processus d'intégration de services.
+      - Recherche : optimisation de la détection d'anomalies réseaux/systèmes via blockchain.
+      - Cas pratiques : automatisation des processus par RPA et élaboration d'un business plan Health Tech.
+      - Gouvernance SI : rédaction d'un SDSI basé sur les référentiels ITIL et pilotage des processus.
     date: Oct. 2019 - Dec. 2020
+
   - title: EPITECH, MA in Information Technology / Computer Science
     description:
-      - Expert en technologies de l’information & Ingénieurie logicielle
-      - Co-création du Laboratoire de Robotique (Mechalab) d’Epitech Bordeaux
-      - Assistant pédagogique chargé de l'évaluation des élèves et accompagnement/suivi
-    # grade: "**GPA**: `4.1/4.3`"
+      - Expertise en ingénierie logicielle et technologies de l'information.
+      - Co-création du laboratoire de robotique (Mechalab) d’Epitech Bordeaux.
+      - Assistant pédagogique en charge de l'évaluation et du suivi des étudiants.
     date: Sept. 2011 - Mai 2016
+
   - title: Université de Haute-Alsace UHA, MA in Project Management
     description:
-      - Management des systemes d'information
-      - Etude de cas - Mise en place d’un ERP avec architecture modulaire chez "ETCHEVER SAS"
-      - Redaction note de cadrage et Schema directeur
-      - Méthode de conduite du changement
-    # grade: "**GPA**: `3.9/4.3`"
-    # description:
-    #   - 
+      - Management des SI, rédaction de notes de cadrage et de schémas directeurs.
+      - Étude de cas : mise en place d'un ERP modulaire chez "ETCHEVER SAS" et conduite du changement.
     date: Sept. 2015 - Mai 2016
+
   - title: Beijing Jiaotong University, (exchange program) MA in Software Engineering
-    # grade: "**GPA**: `3.9/4.3`"
     description:
-      - Software Project Management
-      - Software Requirement Engineering
-      - Software Quality Assurance
-      - Advanced Software Architecture
-      - Advanced Operating System
-      - Data Mining and Hadoop Data Analytic
+      - Software Project Management, Requirement Engineering et Software Quality Assurance.
+      - Advanced Software Architecture & Operating Systems, Data Mining et Hadoop Data Analytics.
     date: Sept. 2014 - Jul. 2015

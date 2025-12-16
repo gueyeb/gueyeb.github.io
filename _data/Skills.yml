@@ -11,14 +11,27 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)
     "
-  - title: Frameworks
+  - title: Frameworks & Platforms
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg)
+    "
+  - title: Data & Integration
+    description: "
+      Talend (Data Integration / MDM) · ETL/ELT · Oracle · PostgreSQL · MySQL · MongoDB · ElasticSearch · Kafka · Hadoop · Spark · Flink · MDM & gouvernance des données.
+    "
+  - title: Product & Delivery
+    description: "
+      Product Ownership · Agile/Scrum · BPMN · Rédaction de user stories · Facilitation d'ateliers · Testing & UAT · Suivi budgétaire · KPI & reporting de portefeuille.
+    "
+  - title: Tools
+    description: "
+      Jira · Confluence · ServiceNow · Git/GitHub · CI/CD · Docker · CI observability (Grafana/Prometheus) · BPM · Visio · HP ALM Quality Center.
     "
