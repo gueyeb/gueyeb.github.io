@@ -3,9 +3,13 @@ listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
   - title: Digital Transformation with Google Cloud
+    description: Coursera – Accélération des parcours de transformation cloud et innovation produit.
     date: Mar. 2024
+
   - title: Innovate with the Design Thinking
-    description: CEGOS France
+    description: CEGOS France – méthodes de créativité, prototypage et validation utilisateur.
     date: Dec. 2019
+
   - title: IQBBA - Certified Business Analyst (CFLBA)
+    description: Certification Internationale en Business Analysis – focus exigences et gouvernance.
     date: Avr. 2019
