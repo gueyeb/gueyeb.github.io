@@ -1,0 +1,38 @@
+subject: Projects
+listing-order: 3
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "HiveShip"
+    description:
+      - Collaborative project management platform
+      - Features include Team Workspaces, Kanban Boards, and REST API
+      - "Technology Used: Django, React, Docker"
+    icon: "/assets/img/briefcase.svg"
+  - title: "Pharmaxel"
+    description: 
+      - Modern pharmacy management system
+      - Handles products, orders, stock, customers, suppliers, and invoices
+      - "Technology Used: Node.js, React, Docker"
+    icon: "/assets/img/flask.svg"
+
+  - title: "Niawbi"
+    description: 
+      - Comprehensive full-stack platform
+      - Includes Admin Dashboard, API, and Mobile Application
+      - "Technology Used: Node.js, TypeScript, Prisma"
+    icon: "/assets/img/clipboard-list.svg"
+
+  - title: "TricyGo"
+    description: 
+      - Tricycle transportation and logistics platform
+      - Mobile application for drivers and customers
+      - "Technology Used: Flutter, Firebase"
+    icon: "/assets/img/phone.svg"
+
+  - title: "WeatherWiz"
+    description: 
+      - Simple weather information application
+      - Provides weather updates for any given location
+      - "Technology Used: React, Expo"
+    icon: "/assets/img/globe.svg"
+
